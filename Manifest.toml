@@ -1,0 +1,12 @@
+# This file is machine-generated - editing it directly is not advised
+
+julia_version = "1.10.5"
+manifest_format = "2.0"
+project_hash = "4baef8c4eb650b84a18545d4e3e70726305aa674"
+
+[[deps.JuliaUnregisteredPackage1]]
+git-tree-sha1 = "18299843913fac00731dc0338cdc68bb133d6096"
+repo-rev = "main"
+repo-url = "https://github.com/gboulmier/JuliaUnregisteredPackage1"
+uuid = "27edc75c-098c-4eeb-a6e0-526f84666e38"
+version = "0.1.0"
